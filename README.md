@@ -6,11 +6,6 @@ This project automates the student attendance process using facial recognition t
 1. [Features](#features)
 2. [Technologies Used](#technologies-used)
 3. [Prerequisites](#prerequisites)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [File Structure](#file-structure)
-7. [How It Works](#how-it-works)
-8. [License](#license)
 
 ## Features
 - Real-time face detection and recognition.
